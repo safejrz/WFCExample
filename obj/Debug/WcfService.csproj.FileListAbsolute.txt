@@ -1,0 +1,7 @@
+C:\GitHub\WCFExample\WcfService\bin\WcfService.dll.config
+C:\GitHub\WCFExample\WcfService\bin\WcfService.dll
+C:\GitHub\WCFExample\WcfService\bin\WcfService.pdb
+C:\GitHub\WCFExample\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache
+C:\GitHub\WCFExample\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\GitHub\WCFExample\WcfService\obj\Debug\WcfService.dll
+C:\GitHub\WCFExample\WcfService\obj\Debug\WcfService.pdb
