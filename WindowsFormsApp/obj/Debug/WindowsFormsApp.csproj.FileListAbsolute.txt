@@ -1,0 +1,10 @@
+C:\GitHub\WFCExample\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\GitHub\WFCExample\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\GitHub\WFCExample\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\GitHub\WFCExample\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
